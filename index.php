@@ -145,8 +145,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-sm-7">
                         <div class="hero-content rmb-55 wow fadeInUp delay-0-2s">
-                            <span class="h2">Hello, my name is </span>
-                            <h1><b>Arani Brian</b>, a Full-Stack <br>Developer.</h1>
+                            
+                            <h1>Hello, my name is<br><b>Arani Brian</b>, a Full-Stack & Web <br>Developer.</h1>
                             <p>We denounce with righteous indignation dislike demoralized by the charms of pleasure</p>
                             <div class="hero-btns">
                                 <a href="contact.html" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>

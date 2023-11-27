@@ -559,7 +559,7 @@ a.theme-btn {
   background-color: #131313;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(../images/preloader.gif); }
+  background-image: url(../images/favicon.png); }
 
 /* Pagination */
 .pagination {
@@ -3631,7 +3631,9 @@ h6, .h6 {
       color: var(--primary-color); }
     @media only screen and (max-width: 1399px) {
       .hero-content h1 {
-        font-size: 55px; } }
+        font-size: 45px;
+        font-family: 'montserrat';
+        font-weight: 800;} }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .hero-content h1 {
         font-size: 46px; } }
