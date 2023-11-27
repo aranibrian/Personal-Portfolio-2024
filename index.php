@@ -230,7 +230,7 @@
                         </div>
                         <div class="col-lg-5">
                             <div class="about-image-part wow fadeInUp delay-0-3s">
-                                <img src="assets/images/about/about.jpg" alt="About Me">
+                                <img src="assets/images/arani-brian.jpg" alt="About Me" style="border-radius: 5px;">
                                 <div class="about-btn btn-one wow fadeInRight delay-0-4s">
                                     <img src="assets/images/about/btn-image1.png" alt="Image">
                                     <h6>Experience Designer</h6>
