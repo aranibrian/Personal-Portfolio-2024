@@ -201,7 +201,7 @@
                             <div class="about-content-part rel z-2 rmb-55">
                                 <div class="section-title mb-35 wow fadeInUp delay-0-2s">
                                     <span class="sub-title mb-15">About Me</span>
-                                    <h2>A Professional <span>Problem Solver</span> and Skilled Individual</h2>
+                                    <h2 style="font-weight: 800;">A Professional <span>Problem Solver</span> and Skilled Individual</h2>
                                     <p>I am committed to innovatively solving complex challenges. Skilled in critical thinking and practical problem-solving, I adeptly strategize across various disciplines. Whether solo or in a team, I focus on delivering impactful results.</p>
                                 </div>
                                 <ul class="list-style-one two-column wow fadeInUp delay-0-2s">
@@ -241,9 +241,7 @@
                                     <h6>Arani Brian</h6>
                                     <i class="fas fa-arrow-right"></i>
                                 </div>
-                                <div class="dot-shape">
-                                    <img src="assets/images/shape/about-dot.png" alt="Shape">
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
