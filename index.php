@@ -1004,9 +1004,9 @@
                             <div class="footer-widget widget_contact_info wow fadeInUp delay-0-6s">
                                 <h6 class="footer-title">Address</h6>
                                 <ul>
-                                    <li><i class="far fa-map-marker-alt"></i> 55 Main Street, 2nd block, New York City</li>
-                                    <li><i class="far fa-envelope"></i> <a href="mailto:support@gmail.com">support@gmail.com</a></li>
-                                    <li><i class="far fa-phone"></i> <a href="callto:+880(123)45688">+880 (123) 456 88</a></li>
+                                    <li><i class="far fa-map-marker-alt"></i> Nairobi, Kenya</li>
+                                    <li><i class="far fa-envelope"></i> <a href="mailto:aranibrian@gmail.com">aranibrian@gmail.com</a></li>
+                                    <li><i class="far fa-phone"></i> <a href="callto:+254 700 816 258">+254 700 816 258</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1018,14 +1018,14 @@
                    <div class="row">
                        <div class="col-lg-6">
                             <div class="copyright-text">
-                                <p>Copyright @2023, <a href="index.html">Noxfolio</a> All Rights Reserved</p>
+                                <p>Copyright @2024, <a href="index.php">Arani Brian</a> All Rights Reserved</p>
                             </div>
                        </div>
                        <div class="col-lg-6 text-lg-end">
                            <ul class="footer-bottom-nav">
                                <li><a href="#">Facebook</a></li>
                                <li><a href="#">Twitter</a></li>
-                               <li><a href="#">Instagram</a></li>
+                               <li><a href="#">GitHub</a></li>
                                <li><a href="#">LinkedIn</a></li>
                            </ul>
                        </div>
