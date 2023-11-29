@@ -147,25 +147,25 @@
                         <div class="hero-content rmb-55 wow fadeInUp delay-0-2s">
                             
                             <h1>Hello, my name is<br><b>Arani Brian</b>, a Full-Stack & Web <br>Developer.</h1>
-                            <p>We denounce with righteous indignation dislike demoralized by the charms of pleasure</p>
+                            <p>I am passionate about using code to create solutions that address real-world problems, from a community level to a global level.</p>
                             <div class="hero-btns">
-                                <a href="contact.html" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>
-                                <a href="contact.html" class="read-more">Download Resume <i class="far fa-angle-right"></i></a>
+                                <a href="#" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>
+                                <a href="#" class="read-more">Download Resume <i class="far fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-5 order-lg-3">
                         <div class="hero-counter-wrap ms-lg-auto rmb-55 wow fadeInUp delay-0-4s">
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text plus" data-speed="3000" data-stop="13">0</span>
+                                <span class="count-text plus" data-speed="1000" data-stop="4">0</span>
                                 <span class="counter-title">Years Of Experience</span>
                             </div>
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text k-plus" data-speed="3000" data-stop="8">0</span>
-                                <span class="counter-title">Project Complete</span>
+                                <span class="count-text plus" data-speed="3000" data-stop="100">0</span>
+                                <span class="counter-title">Projects Complete</span>
                             </div>
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text percent" data-speed="3000" data-stop="99">0</span>
+                                <span class="count-text percent" data-speed="3000" data-stop="98">0</span>
                                 <span class="counter-title">Client Satisfactions</span>
                             </div>
                         </div>
@@ -201,28 +201,28 @@
                             <div class="about-content-part rel z-2 rmb-55">
                                 <div class="section-title mb-35 wow fadeInUp delay-0-2s">
                                     <span class="sub-title mb-15">About Me</span>
-                                    <h2>Professional <span>Problem Solutions</span> For Digital Products</h2>
-                                    <p>At vero eos et accusamus etodio dignissimos ducimus praesentium voluptatum corrupti quos dolores quas molestias excepturi sint occaecati cupiditate provident qui officia deserunt mollitia animi, id est laborum et dolorum</p>
+                                    <h2>A Professional <span>Problem Solver</span> and Skilled Individual</h2>
+                                    <p>I am committed to innovatively solving complex challenges. Skilled in critical thinking and practical problem-solving, I adeptly strategize across various disciplines. Whether solo or in a team, I focus on delivering impactful results.</p>
                                 </div>
                                 <ul class="list-style-one two-column wow fadeInUp delay-0-2s">
-                                    <li>Branding & Design</li>
+                                    <li>Custom S/W develpment</li>
                                     <li>Digital Marketing</li>
-                                    <li>Web Development</li>
-                                    <li>Product Design</li>
+                                    <li>Web Design & Development</li>
+                                    <li>Mobile App Development</li>
                                 </ul>
                                 <div class="about-info-box mt-25 wow fadeInUp delay-0-2s">
                                     <div class="info-box-item">
                                         <i class="far fa-envelope"></i>
                                         <div class="content">
                                             <span>Email Us</span><br>
-                                            <a href="mailto:support@gmail.com">support@gmail.com</a>
+                                            <a href="mailto:aranibrian@gmail.com">aranibrian@gmail.com</a>
                                         </div>
                                     </div>
                                     <div class="info-box-item">
                                         <i class="far fa-phone"></i>
                                         <div class="content">
                                             <span>Make A Call</span><br>
-                                            <a href="callto:+000(123)45688">+880 (123) 456 88</a>
+                                            <a href="callto:+254 700 816 258">0700 816 258</a>
                                         </div>
                                     </div>
                                 </div>
@@ -233,12 +233,12 @@
                                 <img src="assets/images/arani-brian.jpg" alt="About Me" style="border-radius: 5px;">
                                 <div class="about-btn btn-one wow fadeInRight delay-0-4s">
                                     <img src="assets/images/about/btn-image1.png" alt="Image">
-                                    <h6>Experience Designer</h6>
+                                    <h6>Also an experienced Designer</h6>
                                     <i class="fas fa-arrow-right"></i>
                                 </div>
                                 <div class="about-btn btn-two wow fadeInRight delay-0-5s">
                                     <img src="assets/images/about/btn-image2.png" alt="Image">
-                                    <h6>Mark J. Collins</h6>
+                                    <h6>Arani Brian</h6>
                                     <i class="fas fa-arrow-right"></i>
                                 </div>
                                 <div class="dot-shape">
