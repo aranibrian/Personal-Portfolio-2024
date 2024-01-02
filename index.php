@@ -71,9 +71,7 @@
                                         <li><a href="#about">about</a></li>
                                         <li><a href="#resume">Resume</a></li>
                                         <li><a href="#services">services</a></li>
-                                        <li><a href="#skills">skills</a></li>
                                         <li><a href="#portfolio">projects</a></li>
-                                        <li><a href="#blog">blog</a></li>
                                         <li><a href="#contact">Contact</a></li>
                                     </ul>
                                 </div>
@@ -146,7 +144,7 @@
                     <div class="col-lg-4 col-sm-7">
                         <div class="hero-content rmb-55 wow fadeInUp delay-0-2s">
                             
-                            <h1>Hello, my name is<br><b>Arani Brian</b>, a Full-Stack & Web <br>Developer.</h1>
+                            <h1 style="margin-top: 30px;">Hello, my name is<br><b>Arani Brian</b>, a Full-Stack & Web Developer.</h1>
                             <p>I am passionate about using code to create solutions that address real-world problems, from a community level to a global level.</p>
                             <div class="hero-btns">
                                 <a href="#" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>
@@ -173,7 +171,7 @@
                     <div class="col-lg-5">
                         <div class="author-image-part wow fadeIn delay-0-3s">
                             <div class="bg-circle"></div>
-                            <img src="assets/images/arani.png" alt="Author">
+                            <img src="assets/images/aranibrian.png" alt="Arani Brian">
                             <div class="progress-shape">
                                 <img src="assets/images/hero/progress-shape.png" alt="Progress">
                             </div>
@@ -273,7 +271,7 @@
                             <div class="col-xl-8 col-lg-9">
                                 <div class="section-title mb-60 wow fadeInUp delay-0-2s">
                                     <span class="sub-title mb-15">My Resume</span>
-                                    <h2>Real <span>Problem Solutions</span> Experience</h2>
+                                    <h2>Places I have<span> worked</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -285,9 +283,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2021 - Present</span>
-                                            <h4>Lead Product Designer</h4>
-                                            <span class="company">Google</span>
+                                            <span class="years">2022 May - Present</span>
+                                            <h4>Full Stack Developer</h4>
+                                            <span class="company">Realware LLC</span>
                                         </div>
                                     </div>
                                 </div>
@@ -297,9 +295,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2016 - 2018</span>
-                                            <h4>Junior UX/UI Designer</h4>
-                                            <span class="company">LinkedIn</span>
+                                            <span class="years">2022 February - 2022 April</span>
+                                            <h4>Senior Full Stack Developer</h4>
+                                            <span class="company">Aliquot Company Limited</span>
                                         </div>
                                     </div>
                                 </div>
@@ -309,9 +307,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2018 - 2021</span>
-                                            <h4>Senior Product Designer</h4>
-                                            <span class="company">Webflow</span>
+                                            <span class="years">2021 June - 2022 January</span>
+                                            <h4>Website Developer</h4>
+                                            <span class="company">Africa 118</span>
                                         </div>
                                     </div>
                                 </div>
@@ -321,9 +319,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2014 - 2016</span>
-                                            <h4>Graphics Designer</h4>
-                                            <span class="company">Apple</span>
+                                            <span class="years">2020 October - 2021 May</span>
+                                            <h4>Web & Graphic Designer</h4>
+                                            <span class="company">Sasaweb Digital</span>
                                         </div>
                                     </div>
                                 </div>
@@ -349,8 +347,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
-                            <span class="sub-title mb-15">Popular Services</span>
-                            <h2>My <span>Special Service</span> For your Business Development</h2>
+                            <span class="sub-title mb-15">Services I Offer</span>
+                            <h2>My <span>Special Services</span> For your Business Development</h2>
                         </div>
                     </div>
                 </div>
@@ -359,62 +357,43 @@
                         <div class="service-item wow fadeInUp delay-0-2s">
                             <div class="number">01.</div>
                             <div class="content">
-                                <h4>Brand Identity Design</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
+                                <h4>Website Design & Development</h4>
+                                <p>I create modern, functional & high performing websites to help market your business.</p>
                             </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="service-item wow fadeInUp delay-0-4s">
                             <div class="number">02.</div>
                             <div class="content">
-                                <h4>Website Design</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
+                                <h4>Custom Software development</h4>
+                                <p>I create custom software systems that suit your requirements.</p>
                             </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="service-item wow fadeInUp delay-0-2s">
                             <div class="number">03.</div>
                             <div class="content">
-                                <h4>Mobile Application Design</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
+                                <h4>Mobile Application Development</h4>
+                                <p>I develop custom mobile applications based on the client's requirements</p>
                             </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="service-item wow fadeInUp delay-0-4s">
                             <div class="number">04.</div>
                             <div class="content">
-                                <h4>Motion Graphics Design</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
+                                <h4>Logo & Graphics Design</h4>
+                                <p>I also design graphical presentations including logos, flyers, banners etc.</p>
                             </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
+                            
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="service-item wow fadeInUp delay-0-2s">
-                            <div class="number">05.</div>
-                            <div class="content">
-                                <h4>Website Development</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
-                            </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="service-item wow fadeInUp delay-0-4s">
-                            <div class="number">06.</div>
-                            <div class="content">
-                                <h4>SEO & Digital Marketing</h4>
-                                <p>Dignissimos ducimus blanditiis praesen</p>
-                            </div>
-                            <a href="service-details.html" class="details-btn"><i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
             <div class="bg-lines">
@@ -428,95 +407,7 @@
         <!-- Services Area end -->
         
         
-        <!-- Skill Area start -->
-        <section id="skills" class="skill-area rel z-1">
-            <div class="for-bgc-black pt-130 rpt-100 pb-100 rpb-70">
-                <div class="container">
-                    <div class="row gap-100">
-                        <div class="col-lg-5">
-                            <div class="skill-content-part rel z-2 rmb-55 wow fadeInUp delay-0-2s">
-                                <div class="section-title mb-40">
-                                    <span class="sub-title mb-15">My Skills</span>
-                                    <h2>Let’s Explore Popular <span>Skills & Experience</span></h2>
-                                    <p>Sed ut perspiciatis unde omnis iste natus to voluptatem accusantium doloremque laudantium, totam rem aperiamc eaque ipsa quae ab illo inventore veritatis</p>
-                                </div>
-                                <a href="about.html" class="theme-btn">Learn More <i class="far fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="skill-items-wrap">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-2s">
-                                            <img src="assets/images/skills/skill1.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">95%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-3s">
-                                            <img src="assets/images/skills/skill2.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">83</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-4s">
-                                            <img src="assets/images/skills/skill3.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">93%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-5s">
-                                            <img src="assets/images/skills/skill4.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">84%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-2s">
-                                            <img src="assets/images/skills/skill5.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">65%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-3s">
-                                            <img src="assets/images/skills/skill6.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">86%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-4s">
-                                            <img src="assets/images/skills/skill7.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">62%</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
-                                        <div class="skill-item wow fadeInUp delay-0-5s">
-                                            <img src="assets/images/skills/skill8.png" alt="Skill">
-                                            <h5>Figma</h5>
-                                            <span class="percent">94%</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-            </div>
-        </section>
-        <!-- Skill Area end -->
+       
         
         
         <!-- Projects Area start -->
@@ -526,7 +417,7 @@
                     <div class="col-xl-12">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
                             <span class="sub-title mb-15">Latest Works</span>
-                            <h2>Explore My Popular <span>Projects</span></h2>
+                            <h2>Explore My Most Recent <span>Projects</span></h2>
                         </div>
                     </div>
                 </div>
@@ -591,7 +482,7 @@
                     </div>
                 </div>
                 <div class="project-btn text-center wow fadeInUp delay-0-2s">
-                    <a href="projects.html" class="theme-btn">View More Projects <i class="far fa-angle-right"></i></a>
+                    <a href="https://araniwebdesigners.co.ke/" class="theme-btn">View More Projects <i class="far fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="bg-lines">
@@ -680,91 +571,7 @@
         </section>
         <!-- Testimonial Area end -->
         
-        
-        <!-- Pricing Area start -->
-        <section class="pricing-area pt-130 rpt-100 rel z-1">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-12">
-                        <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
-                            <span class="sub-title mb-15">Pricing Package</span>
-                            <h2>Amazing <span>Pricing</span> For your Projects</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-item wow fadeInUp delay-0-2s">
-                            <div class="pricing-header">
-                                <h4 class="title">Basic Plan</h4>
-                                <p class="save-percent">Try Out Basic Plan Save <span>20%</span></p>
-                                <span class="price">19.95</span>
-                            </div>
-                            <div class="pricing-details">
-                                <p>Sed perspiciatis unde natus totam see rem aperiam eaque inventore</p>
-                                <ul>
-                                    <li>Website Design</li>
-                                    <li>Mobile Apps Design</li>
-                                    <li>Product Design</li>
-                                    <li class="unable">Digital Marketing</li>
-                                    <li class="unable">Custom Support</li>
-                                </ul>
-                                <a href="contact.html" class="theme-btn">Choose Package <i class="far fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-item wow fadeInUp delay-0-4s">
-                            <div class="pricing-header">
-                                <h4 class="title">Standard Plan</h4>
-                                <p class="save-percent">Try Out Basic Plan Save <span>35%</span></p>
-                                <span class="price">19.95</span>
-                            </div>
-                            <div class="pricing-details">
-                                <p>Sed perspiciatis unde natus totam see rem aperiam eaque inventore</p>
-                                <ul>
-                                    <li>Website Design</li>
-                                    <li>Mobile Apps Design</li>
-                                    <li>Product Design</li>
-                                    <li>Digital Marketing</li>
-                                    <li>Custom Support</li>
-                                </ul>
-                                <a href="contact.html" class="theme-btn">Choose Package <i class="far fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-item wow fadeInUp delay-0-6s">
-                            <div class="pricing-header">
-                                <h4 class="title">Basic Plan</h4>
-                                <p class="save-percent">Try Out Basic Plan Save <span>45%</span></p>
-                                <span class="price">19.95</span>
-                            </div>
-                            <div class="pricing-details">
-                                <p>Sed perspiciatis unde natus totam see rem aperiam eaque inventore</p>
-                                <ul>
-                                    <li>Website Design</li>
-                                    <li>Mobile Apps Design</li>
-                                    <li>Product Design</li>
-                                    <li>Digital Marketing</li>
-                                    <li>Custom Support</li>
-                                </ul>
-                                <a href="contact.html" class="theme-btn">Choose Package <i class="far fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-            </div>
-        </section>
-        <!-- Pricing Area end -->
-        
+     
         
         <!-- Contact Area start -->
         <section id="contact" class="contact-area pt-95 pb-130 rpt-70 rpb-100 rel z-1">

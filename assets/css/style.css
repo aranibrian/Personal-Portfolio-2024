@@ -3631,8 +3631,8 @@ h6, .h6 {
       color: var(--primary-color); }
     @media only screen and (max-width: 1399px) {
       .hero-content h1 {
-        font-size: 43px;
-        font-family: 'montserrat';
+        font-size: 34px;
+        font-family: 'arial,sans-serif';
         font-weight: 800;} }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .hero-content h1 {
