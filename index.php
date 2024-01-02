@@ -35,10 +35,6 @@
 </head>
 <body class="home-one">
     <div class="page-wrapper">
-
-        <!-- Preloader -->
-        <div class="preloader"></div>
-
         <!-- main header -->
         <header class="main-header menu-absolute">
             <!--Header-Upper-->
@@ -112,7 +108,7 @@
 
                 <!--Appointment Form-->
                 <div class="appointment-form">
-                    <form method="post" action="contact.php">
+                    <form method="post" action="#">
                         <div class="form-group">
                             <input type="text" name="text" value="" placeholder="Name" required>
                         </div>
