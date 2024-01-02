@@ -8,7 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Arani Brian - Full-Stack Developer & Mobile App Developer</title>
+    <title>Arani Brian - Professional Website & Full-Stack Developer</title>
+    <meta name="description" content="My name is Arani Brian. I am passionate about using code to create solutions that address real-world problems, from a community level to a global level.">
+  	<meta name="keywords" content="Full-Stack Developer, Best Web Designer in Nairobi, Graphics Designer, Mobile App developer">
+  	<meta name="author" content="Arani Brian">
     <!-- Favicon Icon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     
@@ -52,7 +55,7 @@
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
                                    <div class="mobile-logo my-15">
-                                       <a href="index.html">
+                                       <a href="index.php">
                                             <img src="assets/images/logos/logo.png" alt="Logo" title="Logo">
                                        </a>
                                    </div>
@@ -109,7 +112,7 @@
 
                 <!--Appointment Form-->
                 <div class="appointment-form">
-                    <form method="post" action="contact.html">
+                    <form method="post" action="contact.php">
                         <div class="form-group">
                             <input type="text" name="text" value="" placeholder="Name" required>
                         </div>
@@ -126,11 +129,12 @@
                 </div>
 
                 <!--Social Icons-->
-                <div class="social-style-one">
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                 <div class="social-style-one">
+                    <a href="https://twitter.com/AraniBrian1" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/aranibrian.arashe" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/arashe_brayo_arani/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com/aranibrian" target="_blank"><i class="fab fa-github"></i></a>
+
                 </div>
             </div>
         </section>
@@ -146,9 +150,19 @@
                             
                             <h1 style="margin-top: 30px;">Hello, my name is<br><b>Arani Brian</b>, a Full-Stack & Web Developer.</h1>
                             <p>I am passionate about using code to create solutions that address real-world problems, from a community level to a global level.</p>
+
+                            <!--Social Icons-->
+                <div class="social-style-one">
+                    <a href="https://twitter.com/AraniBrian1" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/aranibrian.arashe" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/arashe_brayo_arani/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com/aranibrian" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/brian-arani-375686241/" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+                </div>
                             <div class="hero-btns">
-                                <a href="#" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>
-                                <a href="#" class="read-more">Download Resume <i class="far fa-angle-right"></i></a>
+                                <a href="#" class="theme-btn">Download My Resume <i class="far fa-download"></i></a>
+                                
                             </div>
                         </div>
                     </div>
@@ -573,8 +587,8 @@
                         <div class="contact-content-part pt-5 rpt-0 rmb-55 wow fadeInUp delay-0-2s">
                             <div class="section-title mb-40">
                                 <span class="sub-title mb-15">Get In Touch</span>
-                                <h2>Let’s Talk For your <span>Next Projects</span></h2>
-                                <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis</p>
+                                <h2 style="font-family: 'arial,sans-serif';font-weight: 800;">Let’s Talk For your <span>Next Projects</span></h2>
+                                <p>Contact me for your next project and have it done seemlessly and successfully.</p>
                             </div>
                             <ul class="list-style-two">
                                 <li>5+ Years Of Experience</li>
@@ -591,7 +605,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="name">Full Name</label>
-                                            <input type="text" id="name" name="name" class="form-control" value="" placeholder="Richard D. Hammond" required data-error="Please enter your Name">
+                                            <input type="text" id="name" name="name" class="form-control" value="" placeholder="Your Name" required data-error="Please enter your Name">
                                             <label for="name" class="for-icon"><i class="far fa-user"></i></label>
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -599,7 +613,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="email">Email Address</label>
-                                            <input type="email" id="email" name="email" class="form-control" value="" placeholder="support@gmail.com" required data-error="Please enter your Email">
+                                            <input type="email" id="email" name="email" class="form-control" value="" placeholder="e.g. support@gmail.com" required data-error="Please enter your Email">
                                             <label for="email" class="for-icon"><i class="far fa-envelope"></i></label>
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -607,7 +621,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="phone_number">Phone Number</label>
-                                            <input type="text" id="phone_number" name="phone_number" class="form-control" value="" placeholder="+880 (123) 456 88" required data-error="Please enter your Phone Number">
+                                            <input type="text" id="phone_number" name="phone_number" class="form-control" value="" placeholder="+254 xxx xxx" required data-error="Please enter your Phone Number">
                                             <label for="phone_number" class="for-icon"><i class="far fa-phone"></i></label>
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -656,7 +670,7 @@
                         <div class="col-lg-2 col-md-12">
                             <div class="footer-widget widget_logo wow fadeInUp delay-0-2s">
                                 <div class="footer-logo">
-                                    <a href="index.html"><img src="assets/images/logos/logo.png" alt="Logo"></a>
+                                    <a href="index.php"><img src="assets/images/logos/logo.png" alt="Logo"></a>
                                 </div>
                             </div>
                         </div>
@@ -692,10 +706,10 @@
                        </div>
                        <div class="col-lg-6 text-lg-end">
                            <ul class="footer-bottom-nav">
-                               <li><a href="#">Facebook</a></li>
-                               <li><a href="#">Twitter</a></li>
-                               <li><a href="#">GitHub</a></li>
-                               <li><a href="#">LinkedIn</a></li>
+                               <li><a href="https://www.facebook.com/aranibrian.arashe">Facebook</a></li>
+                               <li><a href="https://twitter.com/AraniBrian1">Twitter</a></li>
+                               <li><a href="https://github.com/aranibrian">GitHub</a></li>
+                               <li><a href="https://www.linkedin.com/in/brian-arani-375686241/">LinkedIn</a></li>
                            </ul>
                        </div>
                    </div>
