@@ -199,12 +199,12 @@
                             <div class="about-content-part rel z-2 rmb-55">
                                 <div class="section-title mb-35 wow fadeInUp delay-0-2s">
                                     <span class="sub-title mb-15">About Me</span>
-                                    <h2 style="font-weight: 800;">A Professional <span>Problem Solver</span> and Skilled Individual</h2>
+                                    <h2 style="font-weight: 800;font-family: 'arial,sans-serif';">A Professional <span>Problem Solver</span> and Skilled Individual</h2>
                                     <p>I am committed to innovatively solving complex challenges. Skilled in critical thinking and practical problem-solving, I adeptly strategize across various disciplines. Whether solo or in a team, I focus on delivering impactful results.</p>
                                 </div>
                                 <ul class="list-style-one two-column wow fadeInUp delay-0-2s">
                                     <li>Custom S/W develpment</li>
-                                    <li>Digital Marketing</li>
+                                    <li>Graphics Design</li>
                                     <li>Web Design & Development</li>
                                     <li>Mobile App Development</li>
                                 </ul>
@@ -229,16 +229,7 @@
                         <div class="col-lg-5">
                             <div class="about-image-part wow fadeInUp delay-0-3s">
                                 <img src="assets/images/arani-brian.jpg" alt="About Me" style="border-radius: 5px;">
-                                <div class="about-btn btn-one wow fadeInRight delay-0-4s">
-                                    <img src="assets/images/about/btn-image1.png" alt="Image">
-                                    <h6>Also an experienced Designer</h6>
-                                    <i class="fas fa-arrow-right"></i>
-                                </div>
-                                <div class="about-btn btn-two wow fadeInRight delay-0-5s">
-                                    <img src="assets/images/about/btn-image2.png" alt="Image">
-                                    <h6>Arani Brian</h6>
-                                    <i class="fas fa-arrow-right"></i>
-                                </div>
+                               
                                
                             </div>
                         </div>
@@ -424,65 +415,65 @@
                 <div class="row align-items-center pb-25">
                     <div class="col-lg-6">
                         <div class="project-image wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/projects/project1.jpg" alt="Project">
+                            <img src="assets/images/projects/transport.png" alt="Project">
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6">
                         <div class="project-content wow fadeInRight delay-0-2s">
-                            <span class="sub-title">Product Design</span>
-                            <h2><a href="project-details.html">Mobile Application Design</a></h2>
-                            <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis architecto beatae</p>
-                            <a href="project-details.html" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <span class="sub-title">Personal Project</span>
+                            <h2><a href="#">Transport Services</a></h2>
+                            <p>A system that allows service providers to list themeselves on the mobile app and get calls from potential clients.</p>
+                            <a href="https://askfortransportkenya.com/" target="_blank" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="row align-items-center pb-25">
                     <div class="col-lg-6 order-lg-2">
                         <div class="project-image wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/projects/project2.jpg" alt="Project">
+                            <img src="assets/images/projects/kipande.png" alt="Project">
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 ms-auto">
                         <div class="project-content wow fadeInRight delay-0-2s">
-                            <span class="sub-title">Product Design</span>
-                            <h2><a href="project-details.html">Website Makeup Design</a></h2>
-                            <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis architecto beatae</p>
-                            <a href="project-details.html" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <span class="sub-title">Personal Project</span>
+                            <h2><a href="#">Lost Documents Collection</a></h2>
+                            <p>A system to allow one to track their lost documents e.g., National ID's, DL's certificates etc.</p>
+                            <a href="#" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="row align-items-center pb-25">
                     <div class="col-lg-6">
                         <div class="project-image wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/projects/project3.jpg" alt="Project">
+                            <img src="assets/images/projects/naicef.png" alt="Project">
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6">
                         <div class="project-content wow fadeInRight delay-0-2s">
-                            <span class="sub-title">Product Design</span>
-                            <h2><a href="project-details.html">Brand Identity and Motion Design</a></h2>
-                            <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis architecto beatae</p>
-                            <a href="project-details.html" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <span class="sub-title">Client Project</span>
+                            <h2><a href="#">Tour Savings Platform</a></h2>
+                            <p>Naicef is a tours and travel saving platform, that allowa users to save some amount, either monthly, weekly or daily and are recommended to trips that match their savings.</p>
+                            <a href="https://naicef.com/" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="row align-items-center pb-25">
                     <div class="col-lg-6 order-lg-2">
                         <div class="project-image wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/projects/project4.jpg" alt="Project">
+                            <img src="assets/images/projects/cvn.png" alt="Project">
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 ms-auto">
                         <div class="project-content wow fadeInRight delay-0-2s">
-                            <span class="sub-title">Product Design</span>
-                            <h2><a href="project-details.html">Mobile Application Development</a></h2>
-                            <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis architecto beatae</p>
-                            <a href="project-details.html" class="details-btn"><i class="far fa-arrow-right"></i></a>
+                            <span class="sub-title">Client Project</span>
+                            <h2><a href="#">NGO Website</a></h2>
+                            <p>CVN is an organization that deals in charity activities. This is their simple basic website, an advanced system, that includes a mobile app is under development.</p>
+                            <a href="https://cvnkenya.org/" class="details-btn"><i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="project-btn text-center wow fadeInUp delay-0-2s">
-                    <a href="https://araniwebdesigners.co.ke/" class="theme-btn">View More Projects <i class="far fa-angle-right"></i></a>
+                    <a href="https://araniwebdesigners.co.ke/" target="_blank" class="theme-btn">View More Projects <i class="far fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="bg-lines">
@@ -496,7 +487,7 @@
         <!-- Projects Area end -->
         
         
-        <!-- Testimonial Area start -->
+        <!-- 
         <section class="testimonials-area rel z-1">
             <div class="for-bgc-black py-130 rpy-100">
                 <div class="container">
@@ -569,7 +560,8 @@
                <span></span><span></span>
             </div>
         </section>
-        <!-- Testimonial Area end -->
+         Testimonial Area end 
+        -->
         
      
         
@@ -656,124 +648,6 @@
             </div>
         </section>
         <!-- Contact Area end -->
-        
-        
-        <!-- Blog Area start -->
-        <section id="blog" class="blog-area rel z-1">
-            <div class="for-bgc-black pt-130 pb-100 rpt-100 rpb-70">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-xl-12">
-                            <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
-                                <span class="sub-title mb-15">News & Blog</span>
-                                <h2>Latest News & <span>Blog</span></h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="blog-item wow fadeInUp delay-0-2s">
-                                <div class="image">
-                                    <img src="assets/images/blog/blog1.png" alt="Blog">
-                                </div>
-                                <div class="content">
-                                    <div class="blog-meta mb-35">
-                                        <a class="tag" href="blog.html">Design</a>
-                                        <a class="tag" href="blog.html">Figma</a>
-                                    </div>
-                                    <h5><a href="blog-details.html">Tips For Conductin See Usability Studies</a></h5>
-                                    <hr>
-                                    <div class="blog-meta mt-35">
-                                        <a class="date" href="#"><i class="far fa-calendar-alt"></i> September 25, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="blog-item wow fadeInUp delay-0-2s">
-                                <div class="image">
-                                    <img src="assets/images/blog/blog2.png" alt="Blog">
-                                </div>
-                                <div class="content">
-                                    <div class="blog-meta mb-35">
-                                        <a class="tag" href="blog.html">Design</a>
-                                        <a class="tag" href="blog.html">Figma</a>
-                                    </div>
-                                    <h5><a href="blog-details.html">Keyboard-Only Suppor Assistive Technology</a></h5>
-                                    <hr>
-                                    <div class="blog-meta mt-35">
-                                        <a class="date" href="#"><i class="far fa-calendar-alt"></i> September 25, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-            </div>
-        </section>
-        <!-- Blog Area end -->
-        
-        <!-- Client Log start -->
-        <div class="client-logo-area rel z-1 pt-130 rpt-100 pb-60">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-12">
-                        <div class="section-title text-center pt-5 mb-65 wow fadeInUp delay-0-2s">
-                            <h6>I’ve <span>1253+ Global Clients</span> & lot’s of Project Complete</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="client-logo-wrap">
-                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo1.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo2.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo3.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo4.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo5.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-2s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo6.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-3s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo7.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-4s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo8.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-5s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo9.png" alt="Client Logo">
-                    </a>
-                    <a class="client-logo-item wow fadeInUp delay-0-6s" href="contact.html">
-                        <img src="assets/images/client-logos/client-logo10.png" alt="Client Logo">
-                    </a>
-                </div>
-            </div>
-            <div class="bg-lines">
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-               <span></span><span></span>
-            </div>
-        </div>
-        <!-- Client Log end -->
-        
-        
         <!-- footer area start -->
         <footer class="main-footer rel z-1">
             <div class="footer-top-wrap bgc-black pt-100 pb-75">
@@ -787,16 +661,6 @@
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7">
-                            <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
-                                <h6 class="footer-title">Quick Link</h6>
-                                <ul>
-                                    <li><a href="services.html">Service</a></li>
-                                    <li><a href="projects.html">Projects</a></li>
-                                    <li><a href="services.html#pricing">Pricing</a></li>
-                                    <li><a href="about.html#faqs">Faqs</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
                             <div class="footer-widget widget_newsletter wow fadeInUp delay-0-4s">
                                 <form action="#">
                                     <label for="email-address"><i class="far fa-envelope"></i></label>
